@@ -1,17 +1,1 @@
-Black & White Hunt, a modern and user-friendly restaurant website, using HTML & CSS. This project enhances the user experience with an elegant layout, smooth navigation, and responsive design.
-
- Key HTML & CSS Elements Used:
-🔹 HTML Elements:
-
-<header> & <nav> for structured navigation
-<ul>, <li>, <a> for lists & links
-<h1> to <h6> for headings
-<img> for images
-<div> for sectioning
-🔹 CSS Properties:
-
-#header, #image, #text ➝ Targeting elements by ID
-.listitems ➝ Styling elements using class selectors
-background-color, color ➝ Defining colors
-font-size, padding, margin ➝ Adjusting text size & spacing
-display, justify-content, align-items ➝ Managing layout & responsiveness
+Black & White Hunt is a modern and user-friendly restaurant website built using HTML & CSS. This project enhances the user experience with an elegant layout, smooth navigation, and responsive design. Key HTML elements include <header> and <nav> for structured navigation, <ul>, <li>, and <a> for lists and links, <h1> to <h6> for headings, <img> for images, and <div> for sectioning content effectively. On the CSS side, elements are styled using IDs like #header, #image, and #text, while class selectors such as .listitems ensure consistency. Styling properties like background-color and color define aesthetics, while font-size, padding, and margin adjust spacing for readability. The layout is managed with display, justify-content, and align-items to ensure responsiveness across different screen sizes. This project reflects a strong foundation in frontend development and a keen eye for design.
