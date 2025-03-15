@@ -5,9 +5,9 @@ Black & White Hunt is a modern and user-friendly restaurant website built using 
 
 **HTML Tags Used:**
 
-**<header>, <nav>, <section>, <div>, <ul>, <li>, <h1>** - Structured the page for better readability
-**<a>** - Created smooth navigation links to different sections
-**<img>** - Displayed high-quality food images for a visually appealing menu
+<header>, <nav>, <section>, <div>, <ul>, <li>, <h1>- Structured the page for better readability
+<a> - Created smooth navigation links to different sections
+**<img> - Displayed high-quality food images for a visually appealing menu
 **<p>**- Used for descriptive text in About Us & Contact sections
 **CSS Techniques Used:**
 **Flexbox (display: flex;)** - For aligning elements like the header and menu sections
